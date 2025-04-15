@@ -1,0 +1,101 @@
+@charset "UTF-8";
+.poetsen-one-regular {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+body{
+    background-color: #B4CDED;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    background-color: #344966;
+    color: #F0F4EF;
+    left: 0;
+    right: 0;
+    width: 100% ;
+    height: 75px;
+    display: flex;
+    top: 0;
+    margin: 0;
+    position: fixed;
+    box-shadow: 1px 1px 5px #0000006b;
+    
+}
+
+.header{
+
+}
+
+.div1{
+    height: 50px;
+    margin: 5px 0.25em 0.025em 2em;
+    font-size: 30px;
+}
+
+main{
+    margin: 8em 3em 2em 3em;
+    background-color: white;
+    padding: 0.8em 1.5em ;
+    border-radius: 2%;
+    box-shadow: 1px 1px 5px #0000006b;
+
+}
+
+p, h1, h2, h3, h4, h5, h6{
+    overflow-wrap: break-word;
+}
+
+h1{
+    color: #0D1821;
+    font-size: 55px;    
+    margin: 0.25em;
+}
+
+h2{
+    color: #2a4b66;
+    font-size: 50px;
+    margin: 0.20em;
+}
+
+h3{
+    color: #3b678b;
+    font-size: 40px;
+    margin: 0.15em;
+}
+
+h4{
+    color: #4b80ac;
+    font-size: 35;
+    margin: 0.10em;
+}
+
+h5{
+    color: #5ba9e9; 
+    font-size: 30;
+    margin: 0.05em;
+}
+
+h6{
+    color: #3ca2f5;
+    font-size: 25px;
+    margin: 0.025em;
+}
+
+p{
+    text-indent: 2.5em;
+    margin: 0;
+}
+
+footer{
+    background-color: #0D1821;
+    height: 150px;
+    bottom: 0;
+    left: 0;
+    right:0;
+    box-shadow: -1px -1px 5px #0000006b;
+}
+
